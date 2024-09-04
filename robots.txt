@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dumb2u.github.io/sitemap/sitemap.txt
